@@ -1,0 +1,136 @@
+{
+  "students": {
+    "Aayan112": { "password": "Aayan@221", "allowed_subjects": ["react"] },
+    "krish114": { "password": "krish@441", "allowed_subjects": ["react"] },
+    "AtharvRai11": { "password": "AtharvRai@55", "allowed_subjects": ["react"] },
+    "tamanna8987": { "password": "tamanna@123", "allowed_subjects": ["react"] },
+    "deepshikha113": { "password": "deepshikha@331", "allowed_subjects": ["react"] },
+    "aarti116": { "password": "aarti@661", "allowed_subjects": ["react"] },
+
+    "alice456": { "password": "alicepwd", "allowed_subjects": ["html", "python"] },
+
+    "yuvraj7806": { "password": "yuvraj@123", "allowed_subjects": ["html"] },
+    "raghvendra9455": { "password": "raghvendra@123", "allowed_subjects": ["html"] },
+    "silochana9203": { "password": "silochana@123", "allowed_subjects": ["html"] },
+    "jiya7354": { "password": "jiya@123", "allowed_subjects": ["html"] },
+    "prithviraj6267": { "password": "prithviraj@123", "allowed_subjects": ["html"] },
+    "vinay6268": { "password": "vinay@123", "allowed_subjects": ["html"] },
+    "jatin7354": { "password": "jatin@123", "allowed_subjects": ["html"] },
+    "jay7879": { "password": "jay@123", "allowed_subjects": ["html"] },
+    "vishnu9243": { "password": "vishnu@123", "allowed_subjects": ["html"] },
+    "renuka9691": { "password": "renuka@123", "allowed_subjects": ["html"] },
+    "arpit9617": { "password": "arpit@123", "allowed_subjects": ["html"] },
+    "alfez8461": { "password": "alfez@123", "allowed_subjects": ["html"] },
+    "shivani1722": { "password": "shivani@123", "allowed_subjects": ["html"] },
+    "priyam7398": { "password": "priyam@123", "allowed_subjects": ["html"] },
+    "aabhas9893": { "password": "aabhas@123", "allowed_subjects": ["html"] },
+    "saloni6267": { "password": "saloni@123", "allowed_subjects": ["html"] },
+    "rupali9201": { "password": "rupali@123", "allowed_subjects": ["html"] },
+    "suvani7974": { "password": "suvani@123", "allowed_subjects": ["html"] },
+    "shivam8839": { "password": "shivam@123", "allowed_subjects": ["html"] },
+    "ashish6266": { "password": "ashish@123", "allowed_subjects": ["html"] },
+    "vikram7739": { "password": "vikram@123", "allowed_subjects": ["html"] },
+    "dhruvraj9201": { "password": "dhruvraj@123", "allowed_subjects": ["html"] },
+    "sanskar9669": { "password": "sanskar@123", "allowed_subjects": ["html"] },
+    "siddharth8923": { "password": "siddharth@123", "allowed_subjects": ["html"] },
+    "jigar7974": { "password": "jigar@123", "allowed_subjects": ["html"] },
+    "yashwant9407": { "password": "yashwant@123", "allowed_subjects": ["html"] },
+    "himanshu9575": { "password": "himanshu@123", "allowed_subjects": ["html"] },
+    "payal6265": { "password": "payal@123", "allowed_subjects": ["html"] },
+    "saloni4612": { "password": "saloni@123", "allowed_subjects": ["html"] },
+    "santosh9131": { "password": "santosh@123", "allowed_subjects": ["html"] },
+    "sagar7542": { "password": "sagar@123", "allowed_subjects": ["html"] },
+    "pinki6261": { "password": "pinki@123", "allowed_subjects": ["html"] },
+    "aditya7869": { "password": "aditya@123", "allowed_subjects": ["html"] },
+
+    "rahul789": { "password": "rahulpwd", "allowed_subjects": ["python"] }
+  },
+
+  "subjects": {
+    "react": {
+      "dashboard": "dashboards/react_dash.php",
+      "tasks": 9,
+      "completed": 2,
+      "pending": 0,
+      "not_done": 1,
+      "assessments": [
+        {
+          "title": "Assessment 1",
+          "taskName": "Task 1 – Closed",
+          "link": "",
+          "link-old": "https://1drv.ms/p/c/6e52468e766ce93c/EQL2t1FoBxlCj8DpFKNTW64BdbfE2XdMMZ2lxdnjcIOypw?e=UxiBCE"
+        },
+        {
+          "title": "Assessment 2",
+          "taskName": "Task 2 - Closed",
+          "link": "",
+          "link-old": "https://saarthilms.com/dashboard/video"
+        },
+        {
+          "title": "Assessment 3",
+          "taskName": "Task 3",
+          "link": "https://saarthilms.com/dashboard/video"
+        }
+      ],
+      "calendarEvents": [
+        { "title": "Task 1 – Closed", "start": "2025-11-01", "end": "2025-11-08" },
+        { "title": "Task 2  – Closed", "start": "2025-11-08", "end": "2025-11-15" },
+        { "title": "Task 3", "start": "2025-11-15", "end": "2025-11-22" },
+        { "title": "Task 4", "start": "2025-11-22", "end": "2025-11-29" },
+        { "title": "Task 5", "start": "2025-11-29", "end": "2025-12-06" },
+        { "title": "Task 6", "start": "2025-12-06", "end": "2025-12-13" },
+        { "title": "Task 7", "start": "2025-12-13", "end": "2025-12-20" },
+        { "title": "Task 8", "start": "2025-12-20", "end": "2025-12-27" },
+        { "title": "Task 9", "start": "2025-12-27", "end": "2026-01-03" },
+        { "title": "Task 10", "start": "2026-01-03", "end": "2026-01-10" },
+        { "title": "Task 11", "start": "2026-01-10", "end": "2026-01-15" },
+        { "title": "Task 12", "start": "2026-01-15", "end": "2026-01-22" }
+      ]
+    },
+
+    "html": {
+      "dashboard": "dashboards/html_dash.php",
+      "tasks": 10,
+      "completed": 1,
+      "pending": 1,
+      "not_done": 0,
+      "assessments": [
+        {
+          "title": "HTML Practice 1",
+          "taskName": "HTML Task 1",
+          "link": "https://saarthilms.com/dashboard/html"
+        }
+      ],
+      "calendarEvents": [
+        { "title": "HTML/CSS Week 1", "start": "2025-11-10", "end": "2025-11-17" },
+        { "title": "HTML/CSS Week 2", "start": "2025-11-18", "end": "2025-11-24" },
+        { "title": "HTML/CSS Week 3", "start": "2025-11-25", "end": "2025-12-01" },
+        { "title": "HTML/CSS Certificate", "start": "2025-11-08", "end": "2025-11-15" }
+      ]
+    },
+
+    "python": {
+      "dashboard": "dashboards/python_dash.php",
+      "tasks": 10,
+      "completed": 7,
+      "pending": 2,
+      "not_done": 1,
+      "assessments": [
+        {
+          "title": "Python Basics",
+          "taskName": "Task 1 – Variables",
+          "link": "https://www.python.org/"
+        },
+        {
+          "title": "Python Advanced",
+          "taskName": "Task 2 – Loops",
+          "link": "https://docs.python.org/3/tutorial/"
+        }
+      ],
+      "calendarEvents": [
+        { "title": "Python Week 1", "start": "2025-11-01", "end": "2025-11-08" },
+        { "title": "Python Week 2", "start": "2025-11-08", "end": "2025-11-15" }
+      ]
+    }
+  }
+}
